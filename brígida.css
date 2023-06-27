@@ -1,14 +1,30 @@
-.h1{
-    justify-content: center;display: flex;
+h1{
+    display: flex;
+    justify-content: center;
     color: aqua;
 }
-.img{
-    border: 10cap;
-    width: 200px;.
-}
-.form :action{
+
+h4{
+    display: flex;
     justify-content: center;
 }
-.h4{
+
+p{
+    display: flex;
     justify-content: center;
+}
+
+carousel{
+    display:flex;
+    justify-content: center;
+    right:100px;
+    width:200px;
+}
+
+form{
+    justify-content: center;
+}
+
+body{
+    background-color: rgb(208, 163, 250);
 }
